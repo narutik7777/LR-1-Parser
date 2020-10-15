@@ -6,7 +6,7 @@
 1. P→bDfLe
 2. D→dcD|d
 3. L→scL|s
-4. P-аксиома
+* P-аксиома
 
 ### How to use ###
 1. Run
